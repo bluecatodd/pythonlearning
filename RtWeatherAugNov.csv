@@ -1,4 +1,4 @@
-date,region,Rt,Weather,Region
+date,State,Rt,Climate,Region
 8/1/2020,AK,0.966742712,63.5,"Region 10 AK, ID, OR, WA"
 8/2/2020,AK,0.97046394,61.5,"Region 10 AK, ID, OR, WA"
 8/3/2020,AK,0.979909811,59,"Region 10 AK, ID, OR, WA"
